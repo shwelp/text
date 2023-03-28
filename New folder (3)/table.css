@@ -1,0 +1,27 @@
+/* navbar */
+
+.navbar ul {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* headings */
+
+.headings {
+    font-size: 2.5rem;
+}
+
+/* About */
+
+#pic {
+    flex-direction: column;
+    align-items: center;
+}
+
+#pic img {
+    width: 275px;
+    height: 300px;
+}
+
+#intro h2 {
+    text-align: center;
+}
